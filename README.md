@@ -9,3 +9,6 @@ sudo apt-get install freeglut3-dev
 sudo apt-get install libopenal1 libopenal-dev
 
 sudo apt-get install libalut-dev
+
+
+7º Periodo - Ciência da computação - UFES
